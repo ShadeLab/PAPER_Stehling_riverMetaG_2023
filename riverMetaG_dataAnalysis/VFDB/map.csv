@@ -1,0 +1,17 @@
+ID,name,river,type,month,wqi,desc,waterQ,Genome_equivalents,segments,order
+S8,P1_SDOM_04500_M,Sao Domingos ,SDOM,5,36,poor,poor,2675.846194,A,1
+S9,P2_PARD_02400_M,Pardo ,PARD,4,73,good,good,1516.339596,A,2
+S10,P3_PARD_02400_J,Pardo ,PARD,6,80,excellent,good,2574.765566,B,2
+S11,P4_PARD_02500_M,Pardo ,PARD,4,51,regular,regular,3801.807808,A,3
+S12,P5_PARD_02500_J,Pardo ,PARD,6,65,good,good,1642.054237,B,3
+S13,P6_TIET_02400_M,Tiete,TIET,3,32,poor,poor,1274.671187,A,4
+S14,P7_TIET_02050_M,Tiete,TIET,3,55,good,good,1610.644593,A,5
+S15,P8_TIET_04200_M,Tiete,TIET,3,36,poor,poor,1064.698487,A,6
+S16,P9_TIET_03130_M,Tiete,TIET,3,37,regular,regular,1131.12022,A,7
+S1,P10_TIET_02090_M,Tiete,TIET,3,51,regular,regular,1722.696355,A,8
+S2,P11_SDOM_04500_J,Sao Domingos,SDOM,7,27,poor,poor,2995.125025,B,1
+S3,P12_TIET_02400_J,Tiete,TIET,7,38,regular,regular,1685.101525,B,4
+S4,P13_TIET_02050_J,Tiete,TIET,7,76,good,good,2337.519611,B,5
+S5,P14_TIET_04200_J,Tiete,TIET,7,21,poor,poor,2145.999459,B,6
+S6,P15_TIET_03130_J,Tiete,TIET,7,35,poor,poor,686.2229253,B,7
+S7,P16_TIET_02090_J,Tiete,TIET,7,67,good,good,1747.371307,B,8

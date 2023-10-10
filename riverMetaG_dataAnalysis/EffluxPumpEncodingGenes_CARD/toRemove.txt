@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+P3_megaHit.fasta	k191_123635	262	443	-	remove	1202-1380/3153	.....==./......	3-Feb	5.68	75.28	resfinder	EU370913	remove	Nalidixic_acid;Ciprofloxacin
+P5_megaHit.fasta	k191_123635	262	443	-	remove	1202-1380/3153	.....==./......	3-Feb	5.68	75.28	resfinder	EU370913	remove	Nalidixic_acid;Ciprofloxacin
+P13_megaHit.fasta	k191_123635	262	443	-	remove	1202-1380/3153	.....==./......	3-Feb	5.68	75.28	resfinder	EU370913	remove	Nalidixic_acid;Ciprofloxacin
+P15_megaHit.fasta	k191_123635	262	443	-	remove	1202-1380/3153	.....==./......	3-Feb	5.68	75.28	resfinder	EU370913	remove	Nalidixic_acid;Ciprofloxacin
+P16_megaHit.fasta	k191_123635	262	443	-	remove	1202-1380/3153	.....==./......	3-Feb	5.68	75.28	resfinder	EU370913	remove	Nalidixic_acid;Ciprofloxacin
