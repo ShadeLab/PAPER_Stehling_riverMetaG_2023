@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --time=4:00:00
+#SBATCH --mem-per-cpu=10G
+#SBATCH -N 1 -c 20
+#SBATCH -J resfinder
+#SBATCH --mail-user=chodkows@msu.edu
+#SBATCH --mail-type=FAIL,BEGIN,END
+
+cd /mnt/research/ShadeLab/Chodkowski/ElianaWork/abrigate
+
+conda activate abricate
+
+abricate --fofn fofn.txt --db resfinder --minid 80 --mincov 60 --nopath --threads 20 > /mnt/scratch/chodkows/Output_resfinder_megaHit.txt
+
+scontrol show job 
+

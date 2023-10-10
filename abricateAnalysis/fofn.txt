@@ -1,0 +1,16 @@
+P1_megaHit.fasta
+P2_megaHit.fasta
+P3_megaHit.fasta
+P4_megaHit.fasta
+P5_megaHit.fasta
+P6_megaHit.fasta
+P7_megaHit.fasta
+P8_megaHit.fasta
+P9_megaHit.fasta
+P10_megaHit.fasta
+P11_megaHit.fasta
+P12_megaHit.fasta
+P13_megaHit.fasta
+P14_megaHit.fasta
+P15_megaHit.fasta
+P16_megaHit.fasta
